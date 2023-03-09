@@ -1,0 +1,315 @@
+.container {
+  width: 708px;
+  margin: auto;
+}
+
+.item {
+}
+
+.item1 {
+  margin-bottom: 10px;
+  font-size: 70px;
+}
+
+.item2 {
+  font-size: 40px;
+}
+
+.item3 img {
+  width: 30px;
+  height: 30px;
+  background: url(https://cdn.lazyrockets.com/_next/static/images/emoji-cd0caf391218ef7e695cd8315d235038.png);
+  background-position-x: 49.152542372881356%;
+  background-position-y: 15.254237288135593%;
+  background-size: 6000% 6000%;
+}
+
+.item3 {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: antiquewhite;
+  padding: 2px;
+  margin-top: 30px;
+}
+
+.item3 p {
+  width: 650px;
+  margin: 5px;
+}
+
+.item4 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+  background-color: rgb(244, 238, 238);
+}
+
+.item5 {
+  margin-top: 20px;
+  font-size: 20px;
+  background-color: rgba(244, 240, 247, 0.8);
+  font-weight: bold;
+}
+
+.img1 {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.item6 {
+  font-size: 12px;
+}
+
+.item6::before {
+  content: "<";
+}
+
+.item6::after {
+  content: ">";
+}
+
+.img2 {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.item7 {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgba(244, 240, 247, 0.8);
+}
+
+.item8 {
+  font-size: 12px;
+}
+
+.item8::before {
+  content: "<";
+}
+
+.item8::after {
+  content: ">";
+}
+
+.item9 {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgba(244, 240, 247, 0.8);
+}
+
+.img3 {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.item10 {
+  font-size: 12px;
+}
+
+.item10::before {
+  content: "<";
+}
+
+.item10::after {
+  content: ">";
+}
+
+.item11 {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgba(244, 240, 247, 0.8);
+}
+
+.img4 {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.item12 {
+  font-size: 12px;
+}
+
+.item12::before {
+  content: "<";
+}
+
+.item12::after {
+  content: ">";
+}
+
+.item13 {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgba(244, 240, 247, 0.8);
+}
+
+.img5 {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.item14 {
+  font-size: 12px;
+}
+
+.item14::before {
+  content: "<";
+}
+
+.item14::after {
+  content: ">";
+}
+
+.item15 {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+  background-color: rgba(244, 240, 247, 0.8);
+}
+
+.img6 {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.item16 {
+  font-size: 12px;
+}
+
+.item16::before {
+  content: "<";
+}
+
+.item16::after {
+  content: ">";
+}
+
+.item17 {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+  background-color: rgba(244, 240, 247, 0.8);
+}
+
+.item18 {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.highlight {
+  color: #eb5757;
+}
+
+.text-Bg {
+  background: rgba(135, 131, 120, 0.15);
+}
+
+.item19 {
+  margin-top: 20px;
+  background-color: rgb(241, 241, 239);
+  position: relative;
+  padding: 25px;
+  padding-left: 35px;
+}
+
+.omg {
+  position: absolute;
+  top: 20px;
+  left: 3px;
+  width: 30px;
+  height: 30px;
+  background: url(https://cdn.lazyrockets.com/_next/static/images/emoji-cd0caf391218ef7e695cd8315d235038.png);
+  background-position-x: 47.45762711864407%;
+  background-position-y: 25.423728813559322%;
+  background-size: 6000% 6000%;
+}
+
+.button-content {
+  display: flex;
+}
+
+.button1 {
+  margin-top: 10px;
+  width: 465px;
+  height: 103px;
+  box-sizing: border-box;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.button1:hover {
+  background-color: gray;
+}
+
+.button-content .img-wrap {
+  margin-top: 10px;
+  width: 232px;
+  height: 106px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.button-content img {
+  width: 200px;
+}
+
+.button-content a {
+  text-decoration: none;
+  color: black;
+}
+
+.text-margin {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.p-size {
+  width: 460px;
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.youtube-link {
+  font-size: 14px;
+  line-height: 0px;
+}
+
+.line {
+  border-left: 3px solid;
+  padding-left: 15px;
+}
+a{
+  text-decoration: none;
+}
+.item20 {
+
+  font-size: 20px;
+  margin-top: 40px;
+  background-color: rgba(244, 240, 247, 0.8);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: black;
+}
+
+.item20:hover {
+  background-color: red;
+}
+
+.item21 {
+  font-size: 20px;
+  background-color: rgba(244, 240, 247, 0.8);
+  color: black;
+}
+
+.item21:hover {
+  background-color: red;
+}
